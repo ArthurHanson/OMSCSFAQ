@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: OMSCS FAQ
+---
 <em>This FAQ is unofficial and student maintained</em><br />
 <strong>Last Update:</strong> <em>13 August 2019</em><br />
 
